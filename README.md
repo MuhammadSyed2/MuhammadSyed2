@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full Stack Developer, currently working on an ERP software.<br>I have experience of working as a Frontend Developer, Backend Developer & Data Analyst.<br>Looking for opportunity to collaborate and work on Data Analytics or Data Science project.<br>I am currently learning R and furthering my knowledge and skills with data.<br>Feel free to ask me about anything, happy to share and help!
+I am a Full Stack Developer, currently working on an ERP software.<br>I have experience of working as a Frontend Developer, Backend Developer & Data Analyst with different languages and frameworks.<br>Looking for opportunity to collaborate and work on Data Analytics or Data Science project.<br>I am currently learning R and furthering my knowledge and skills with data.<br>Feel free to reach out to me about anything. Have a great day :D !
 
 
 
